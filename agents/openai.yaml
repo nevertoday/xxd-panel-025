@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 025"
+  short_description: "Create double-reading Gestalt Morandi screenprints."
+  default_prompt: "Use $xxd-panel-025 to merge one recognisable source silhouette with one source-grounded hidden image through contour interlock, negative-space cutout, shared boundary, and figure-ground reversal, using one visual anchor, generous pale paper, two to four source-derived Morandi pastels, restrained physical screenprint texture, and native-script editorial type; ask first for modes and copy or locale preferences."
