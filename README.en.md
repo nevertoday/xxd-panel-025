@@ -22,6 +22,26 @@ XXD Panel 025 is an image-generation Skill for Codex and compatible agents. It l
 
 Generous pale paper and two to four airy, source-derived Morandi colours keep the image calm and legible. Shapes are flat and edges crisp, with only slight paper fibre, screenprint grain, ink coverage, and registration shift. There are no gradients, digital blur, realistic shadows, 3D effects, or excessive distress. Type enters through contour, negative boundary, baseline, or whitespace axis and participates in the second reading.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090423630320779424) · 2026-08-20<br>
+> GPT2 x 剪影 x 融合 x 格式塔 x 美学提示词 x VOL.025
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 025 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 025 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 025 sample 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 025 sample 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 025 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why it exists
 
 A generic “double exposure” poster often leaves two objects side by side or transparently overlaid, while a generic “vintage screenprint” becomes little more than old paper, noise, and a fixed palette.
@@ -43,26 +63,6 @@ If an unrelated photograph could replace the source without materially changing 
 - **Two to four Morandi colours:** derive a low-saturation but living palette from the source; keep shapes flat, crisp, and airy.
 - **Physical print evidence:** retain slight paper fibre, screenprint grain, ink coverage, and registration shift without excessive distress.
 - **Intelligent type intervention:** a very short title and sparse microtype enter contour, negative boundary, baseline, or whitespace axis and deepen the same meaning.
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090423630320779424) · 2026-08-20<br>
-> GPT2 x 剪影 x 融合 x 格式塔 x 美学提示词 x VOL.025
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 025 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 025 sample 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 025 sample 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 025 sample 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 025 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 

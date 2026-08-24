@@ -22,6 +22,26 @@ XXD Panel 025 は、Codex と互換 Agent のための画像生成 Skill です�
 
 広い淡色の紙面と、写真から抽出した2〜4色の軽やかなモランディ色を使います。色面は平坦で輪郭は明快にし、紙繊維、シルクスクリーン粒子、インク被膜、わずかな見当ずれだけを残します。グラデーション、デジタルぼかし、写実的な影、3D、過度な劣化加工は使いません。文字は輪郭、負形境界、基線、余白軸へ入り、二重読解に参加します。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090423630320779424) · 2026-08-20<br>
+> GPT2 x 剪影 x 融合 x 格式塔 x 美学提示词 x VOL.025
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 025 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 025 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 025 作例 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 025 作例 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 025 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## なぜ 025 が必要なのか
 
 一般的な「二重露光」は二つの物を横に並べたり透明に重ねたりしがちで、一般的な「レトロ版画」は古紙、ノイズ、固定配色だけになりがちです。
@@ -43,26 +63,6 @@ XXD Panel 025 は、Codex と互換 Agent のための画像生成 Skill です�
 - **2〜4色のモランディ：** 写真から低彩度でも生気のある色群を抽出し、平坦で明快な色面にします。
 - **物理的な印刷感：** 紙繊維、版の粒子、インク被膜、わずかな見当ずれを残し、過度な劣化加工は避けます。
 - **知的な文字介入：** ごく短い題と少量の小文字を輪郭、負形境界、基線、余白軸へ入れ、同じ意味を深めます。
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090423630320779424) · 2026-08-20<br>
-> GPT2 x 剪影 x 融合 x 格式塔 x 美学提示词 x VOL.025
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 025 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 025 作例 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 025 作例 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 025 作例 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 025 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 

@@ -24,6 +24,26 @@ XXD Panel 025 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 
 تعتمد الصورة على ورق فاتح واسع ودرجتين إلى أربع درجات موراندي حية ومشتقة من المصدر. تبقى المساحات اللونية مسطحة والحواف واضحة، مع أثر خفيف لألياف الورق وحبيبات الطباعة وتغطية الحبر وانزياح التسجيل. لا تدرجات ولا ضباب رقمي ولا ظلال واقعية ولا مؤثرات ثلاثية الأبعاد ولا تقادم مفرط. يدخل النص عبر المحيط أو حد الفراغ السلبي أو خط الأساس أو محور الفراغ ويشارك في القراءة الثانية.
 
+## النماذج · من X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090423630320779424) · 2026-08-20<br>
+> GPT2 x 剪影 x 融合 x 格式塔 x 美学提示词 x VOL.025
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 025 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 025 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 025 نموذج 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 025 نموذج 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 025 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
+
 ## لماذا توجد 025؟
 
 غالباً ما يكتفي «التعريض المزدوج» العادي بوضع غرضين جنباً إلى جنب أو بشفافية، فيما تختزل «الطباعة العتيقة» العادية إلى ورق قديم وضجيج ولون ثابت.
@@ -45,26 +65,6 @@ XXD Panel 025 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 - **درجتان إلى أربع من موراندي:** تُشتق من المصدر ألوان منخفضة التشبع لكنها حية، في مساحات مسطحة وواضحة وخفيفة.
 - **أثر طباعة مادي:** تبقى ألياف الورق وحبيبات الطباعة وتغطية الحبر وانزياح التسجيل خفيفة من دون تقادم مفرط.
 - **تدخل نصي ذكي:** يدخل عنوان شديد القصر ونص مجهري مقتصد في المحيط أو الحد السلبي أو خط الأساس أو محور الفراغ ليعمّق المعنى نفسه.
-
-## النماذج · من X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090423630320779424) · 2026-08-20<br>
-> GPT2 x 剪影 x 融合 x 格式塔 x 美学提示词 x VOL.025
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 025 نموذج 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 025 نموذج 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 025 نموذج 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 025 نموذج 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
-
-تعرض هذه النماذج الدافع الجمالي للإصدار 025 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## الموجّه الأصلي هو المرجع الجمالي الوحيد
 

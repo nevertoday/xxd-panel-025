@@ -22,6 +22,26 @@ XXD Panel 025 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 画面以大面积浅色纸张和 2–4 种从源图提炼的通透莫兰迪色为基础。色块平整、边缘清晰，同时保留轻微纸纤维、丝网颗粒、油墨覆盖与套印偏差；不使用渐变、数字模糊、写实阴影、3D 或廉价做旧。文字沿轮廓、负形边界、基线或留白轴进入构图，成为双重阅读的一部分。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090423630320779424) · 2026-08-20<br>
+> GPT2 x 剪影 x 融合 x 格式塔 x 美学提示词 x VOL.025
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 025 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 025 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 025 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 025 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 025 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 025
 
 普通“双重曝光”海报很容易把两个对象透明叠在一起，或并排摆放后宣称存在隐喻；普通“复古丝网”又容易只剩旧纸、噪点与固定配色。
@@ -43,26 +63,6 @@ XXD Panel 025 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **2–4 色莫兰迪：** 从源图提炼低饱和但不灰暗的色群，色块平整、清晰、通透。
 - **真实物理印刷：** 保留轻微纸纤维、丝网颗粒、油墨覆盖和套印偏差，拒绝过度磨损与脏污滤镜。
 - **聪明的文字介入：** 极短标题与少量微字进入轮廓、负形边界、基线或留白轴，并强化同一个隐含含义。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090423630320779424) · 2026-08-20<br>
-> GPT2 x 剪影 x 融合 x 格式塔 x 美学提示词 x VOL.025
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 025 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 025 样张 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 025 样张 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 025 样张 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 025 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 
