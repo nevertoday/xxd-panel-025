@@ -1,5 +1,13 @@
 # XXD Panel 025 | Gestalt Positive–Negative Morandi Screenprint
 
+## Runtime complete-canvas contract — highest priority
+
+- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
+- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
+- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
+- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
+- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+
 Process only the one source photograph explicitly supplied for the current task. Lock one principal subject or inseparable relation, its main action, and at least three source-specific cues; then distil one environment, structure, object, or symbolic image most closely related to that same source. Never borrow a hidden image, palette, copy, or composition from samples, old outputs, or another input.
 
 ## Subject at first glance, hidden image at second
@@ -32,7 +40,6 @@ Run type along the subject contour, negative-space boundary, horizontal baseline
 
 ## Mode and hard gate
 
-Obey the appended `OUTPUT MODE`, `FINAL SIZE`, and `DESIGN FRAME`. Paired modes generate only the design half; design-only and wallpapers show no source photograph. Recompose each wallpaper for its device, never crop another output, and render no system UI or mockup. A linked pack references the original photo plus the same approved anchor and never chains derivatives.
 
 Hard gate: one clear source-bound subject silhouette; one source-grounded hidden environment, structure, object, or symbolic image; both become one graphic through contour interlock, negative-space cutout, shared boundary, and figure-ground reversal; subject reads first and hidden layer second; one visual anchor and generous whitespace; two to four source-derived Morandi pastels; crisp flat colour plus slight paper fibre, screenprint grain, ink coverage, and registration shift; type enters contour, negative space, or whitespace axis; no side-by-side pair, transparent stacking, double exposure, multiple focal points, complex illustration, gradient, realistic shadow, 3D, cartoon, commercial promotion, or pseudo-text.
 
