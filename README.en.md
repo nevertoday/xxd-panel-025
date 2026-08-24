@@ -42,7 +42,18 @@ Generous pale paper and two to four airy, source-derived Morandi colours keep th
 
 These samples demonstrate the 025 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why it exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 025 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Turn a photograph into a first-glance subject and second-glance hidden-image Gestalt screenprint |
+| **Recognizable signature** | FIRST-GLANCE SUBJECT · SECOND-GLANCE IMAGE · FIGURE–GROUND REVERSAL · 2–4 MORANDI COLOURS · PHYSICAL SCREENPRINT |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 A generic “double exposure” poster often leaves two objects side by side or transparently overlaid, while a generic “vintage screenprint” becomes little more than old paper, noise, and a fixed palette.
 
@@ -54,7 +65,7 @@ lock the source subject → extract a recognisable silhouette → choose one sou
 
 If an unrelated photograph could replace the source without materially changing the principal silhouette, hidden image, shared contour, composite colour temperature, or copy, the result is not 025.
 
-## The 025 visual contract
+## What makes the finished style recognizable
 
 - **Subject reads first:** at least three source-specific cues preserve identity, contour, pose, action, and relation, even at thumbnail size.
 - **Hidden image reads second:** choose exactly one source-grounded environment, structure, object, or symbol that rewards closer viewing.
