@@ -42,6 +42,12 @@ XXD Panel 025 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 画面以大面积浅色纸张和 2–4 种从源图提炼的通透莫兰迪色为基础。色块平整、边缘清晰，同时保留轻微纸纤维、丝网颗粒、油墨覆盖与套印偏差；不使用渐变、数字模糊、写实阴影、3D 或廉价做旧。文字沿轮廓、负形边界、基线或留白轴进入构图，成为双重阅读的一部分。
 
+## 原始提示词 · 五种语言
+
+[打开统一的多语言目录](references/original-prompt/)： [简体中文原文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+简体中文文件保存小小东提供的逐字原文，并且是运行时唯一审美权威；其他四个版本是忠实的阅读译文，方便国际读者理解和转发，不会反过来改写生图提示词。
+
 <!-- xxd-panel-benefit:start -->
 ## 快速判断：XXD Panel 025 适合你吗？
 
@@ -77,7 +83,7 @@ XXD Panel 025 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 ## 原始提示词优先，而不是二次导演
 
-`references/025-source.md` 是本项目唯一的创作与审美权威。Skill 不再额外总结或扩写它，也不会统一规划颜色、色板、美学动机、标题或微文案。原始提示词要求怎样处理颜色、材料、构图、留白与文字，GPT Image 2 就按那套逻辑执行。
+`references/original-prompt/zh-CN.md` 是本项目唯一的创作与审美权威。Skill 不再额外总结或扩写它，也不会统一规划颜色、色板、美学动机、标题或微文案。原始提示词要求怎样处理颜色、材料、构图、留白与文字，GPT Image 2 就按那套逻辑执行。
 
 模式与尺寸会完整替换原始提示词旧有的 3:4 上下交付容器，但不改写它的转译美学。每张成品只向 GPT Image 2 发送一个已选模式的最终契约，不再把四种模式放进同一个通用模板让模型自行猜测。
 
@@ -224,7 +230,7 @@ $xxd-panel-025
 - [Skill 工作流](SKILL.md)
 - [中文运行适配器](references/xxd-panel-025-prompt.zh-CN.md)
 - [英文运行适配器](references/xxd-panel-025-prompt.en.md)
-- [原始风格提示词](references/025-source.md)
+- [原始风格提示词](references/original-prompt/zh-CN.md)
 
 ## 边界与信任
 
