@@ -16,16 +16,7 @@
 
 </div>
 
-> FIRST-GLANCE SUBJECT · SECOND-GLANCE IMAGE · FIGURE–GROUND REVERSAL · 2–4 MORANDI COLOURS · PHYSICAL SCREENPRINT
-
-XXD Panel 025 is an image-generation Skill for Codex and compatible agents. It locks one clear, recognisable silhouette from the photograph, then selects one closely grounded environment, structure, object, or symbolic image from that same source. Contour interlock, negative-space cutout, shared boundary, and figure–ground reversal unite them into one visual anchor: the subject reads first; the hidden image emerges second.
-
-Generous pale paper and two to four airy, source-derived Morandi colours keep the image calm and legible. Shapes are flat and edges crisp, with only slight paper fibre, screenprint grain, ink coverage, and registration shift. There are no gradients, digital blur, realistic shadows, 3D effects, or excessive distress. Type enters through contour, negative boundary, baseline, or whitespace axis and participates in the second reading.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090423630320779424) · 2026-08-20<br>
-> GPT2 x 剪影 x 融合 x 格式塔 x 美学提示词 x VOL.025
 
 <table>
   <tr>
@@ -38,9 +29,18 @@ Generous pale paper and two to four airy, source-derived Morandi colours keep th
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090423630320779424) · 2026-08-20<br>
+> GPT2 x 剪影 x 融合 x 格式塔 x 美学提示词 x VOL.025
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090423630320779424">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 025 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> FIRST-GLANCE SUBJECT · SECOND-GLANCE IMAGE · FIGURE–GROUND REVERSAL · 2–4 MORANDI COLOURS · PHYSICAL SCREENPRINT
+
+XXD Panel 025 is an image-generation Skill for Codex and compatible agents. It locks one clear, recognisable silhouette from the photograph, then selects one closely grounded environment, structure, object, or symbolic image from that same source. Contour interlock, negative-space cutout, shared boundary, and figure–ground reversal unite them into one visual anchor: the subject reads first; the hidden image emerges second.
+
+Generous pale paper and two to four airy, source-derived Morandi colours keep the image calm and legible. Shapes are flat and edges crisp, with only slight paper fibre, screenprint grain, ink coverage, and registration shift. There are no gradients, digital blur, realistic shadows, 3D effects, or excessive distress. Type enters through contour, negative boundary, baseline, or whitespace axis and participates in the second reading.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 025 right for you?
