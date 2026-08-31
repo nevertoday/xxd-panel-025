@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 025
+# 🦁 XXD Panel 025｜Invisible Imagery
 
 ### Turn a photograph into a first-glance subject and second-glance hidden-image Gestalt screenprint
 

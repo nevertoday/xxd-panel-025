@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 025
+# 🦁 XXD Panel 025｜隐形意象
 
 ### 把照片变成“一眼主体、第二眼隐藏意象”的格式塔莫兰迪丝网版画
 
