@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="لافتة مشروع XXD Panel 025" width="1200">
-</p>
-
 <div align="center" dir="rtl">
 
 # 🦁 XXD Panel 025｜صور خفية
@@ -323,7 +319,6 @@ xxd-panel-025/
 ├── SKILL.md
 ├── README.md / README.en.md / README.ja.md / README.ko.md / README.ar.md
 ├── agents/openai.yaml
-├── assets/banner.svg + examples/ (محجوز لنماذج محلية مستقبلية)
 ├── scripts/compose_panel.py + configured_imagegen.py
 └── references/xxd-panel-025-prompt.zh-CN.md + xxd-panel-025-prompt.en.md + 025-source.md
 ```
