@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 025｜Invisible Imagery: turns a photo into a minimal Gestalt figure-ground screenprint read twice: the subject's most recognisable outline locks together with a closely related setting, object or symbol from the photo through shared edges, cut-out negative space and figure-ground reversal, so you see the subject first and the hidden image on a second look, with one clear silhouette, wide whitespace, a soft two-to-four colour Morandi pastel palette re-mixed from the photo on pale paper, flat colour with clean edges, light paper fibre, screenprint grain and slight misregistration, and a short title with a few tiny words that follow or are cut by the outline. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-025 or asks for Gestalt negative-space posters, hidden-image screenprints or Morandi-colour figure-ground illustration from a photo.",
+  "short_description": "隐形意象：一眼看到主体、第二眼发现藏在正负形里的另一层意象的莫兰迪丝网版画",
+  "zh-CN": {
+    "name": "隐形意象",
+    "tagline": "把照片做成一张一眼看见主体、第二眼才发现藏着另一幅画面的莫兰迪丝网版画。",
+    "look": "保留主体最好认的外轮廓，再从照片里找一个和它关系最紧的环境、物件或象征，让两者靠轮廓咬合、负形镂空、共用边界和图底反转合成一个图形：远看是主体，近看才发现另一层场景藏在里面。画面只有一个清晰剪影和大片留白，辅助元素极少。颜色是两到四种柔和的莫兰迪粉彩，比如雾粉、柔杏、灰绿、鼠尾草、淡陶土、奶油黄、雾蓝、灰紫，从照片里挑最有精神的颜色柔化重组，底是浅色纸。色块平整、边缘清楚，带轻微纸纤维、丝网颗粒和套色偏差，没有渐变和阴影。文字是一个短标题加少量小字，沿轮廓、负形边界排布，或被轮廓切断。",
+    "traits": [
+      "隐藏意象",
+      "正负形反转",
+      "2–4 色莫兰迪",
+      "丝网",
+      "双重观看"
+    ],
+    "good": [
+      "轮廓鲜明、又和环境有关系的主体：猫和它看着的窗外、鹿和森林、灯塔和海",
+      "侧影清楚的人或动物：人的侧脸、站着的鸟、奔跑的狗",
+      "想做成耐看、有巧思的海报或展览视觉的照片"
+    ],
+    "poor": [
+      "正面、轮廓不清楚的主体，正负形很难咬合",
+      "人很多、焦点并列的照片",
+      "想要高饱和、强对比的商业配色或复杂插画细节"
+    ]
+  },
+  "en": {
+    "name": "Invisible Imagery",
+    "tagline": "Turns a photo into a Morandi-toned screenprint where you see the subject first and a hidden picture on a second look.",
+    "look": "The subject's most recognisable outline is kept, then paired with the setting, object or symbol in the photo most closely tied to it; the two lock into a single shape through interlocking contours, cut-out negative space, shared edges and figure-ground reversal, so from afar you see the subject and up close you find the other scene hidden inside. There is one clear silhouette, wide whitespace and very few extras. The palette is two to four soft Morandi pastels, such as misty pink, soft apricot, grey-green, sage, light terracotta, cream yellow, misty blue or grey-violet, re-mixed from the photo's most spirited colours on pale paper. Colour is flat with clean edges and light paper fibre, screenprint grain and slight misregistration, with no gradients or shadows. Text is a short title and a few tiny words set along the outline or a negative edge, or cut by the contour.",
+    "traits": [
+      "Hidden image",
+      "Figure-ground reversal",
+      "Two to four Morandi colours",
+      "Screenprint",
+      "Double reading"
+    ],
+    "good": [
+      "Subjects with a strong outline and a link to their setting: a cat and the view it watches, a deer and a forest, a lighthouse and the sea",
+      "People or animals in clear profile: a face in profile, a standing bird, a running dog",
+      "Photos you want as a clever poster or exhibition visual that rewards a second look"
+    ],
+    "poor": [
+      "Front-facing subjects with unclear outlines, which are hard to interlock",
+      "Crowded photos with several equal focal points",
+      "Requests for saturated, high-contrast commercial colour or detailed illustration"
+    ]
+  },
+  "ja": {
+    "name": "見えないイメージ",
+    "tagline": "写真を、一目で主役が見え、二度目にもう一つの絵が隠れているのに気づく、モランディ色のシルクスクリーン版画にします。",
+    "look": "主役のいちばんわかりやすい外形を残し、写真の中でそれと最も結びつきの強い環境、モノ、象徴を一つ選びます。二つを輪郭のかみ合わせ、負の形の切り抜き、共有する境界、図と地の反転で一つの図形にまとめ、遠目には主役、近づくともう一つの場面が中に隠れているとわかるようにします。はっきりしたシルエットは一つ、余白は大きく、補助の要素はごくわずかです。色はやわらかなモランディ調のパステルを二〜四色で、霧のピンク、やわらかなあんず色、グレーグリーン、セージ、淡いテラコッタ、クリームイエロー、霧のブルー、グレーがかった紫などを、写真のいちばん生気のある色から組み直し、淡い紙の上に置きます。色面は平らで縁はくっきりし、軽い紙の繊維、シルクスクリーンの粒子、わずかな版ずれがあり、グラデーションや影はありません。文字は短いタイトルと少しの小さな言葉で、輪郭や負の形の縁に沿わせたり、輪郭で切ったりします。",
+    "traits": [
+      "隠れたイメージ",
+      "図と地の反転",
+      "2〜4 色のモランディ",
+      "シルクスクリーン",
+      "二度見る楽しさ"
+    ],
+    "good": [
+      "輪郭がはっきりして環境とつながりのある主役：猫と見つめる窓の外、鹿と森、灯台と海",
+      "横顔やシルエットのはっきりした人や動物：人の横顔、立っている鳥、走る犬",
+      "二度見たくなる気の利いたポスターや展覧会ビジュアルにしたい写真"
+    ],
+    "poor": [
+      "正面向きで輪郭のはっきりしない主役（図と地をかみ合わせにくくなります）",
+      "人が多く焦点が並ぶ写真",
+      "高彩度で強いコントラストの広告的な配色や、細かなイラストを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "보이지 않는 심상",
+    "tagline": "사진을 한눈에는 주인공이, 두 번째 볼 때는 숨은 다른 그림이 보이는 모란디 톤 실크스크린 판화로 만듭니다.",
+    "look": "주인공의 가장 알아보기 쉬운 외곽선을 남기고, 사진에서 그와 가장 가깝게 이어진 환경, 사물, 상징 하나를 고릅니다. 둘을 윤곽 맞물림, 음의 형태 오려 내기, 경계 공유, 그림과 바탕 뒤집기로 하나의 도형으로 합쳐, 멀리서는 주인공이 보이고 가까이서는 그 안에 숨은 다른 장면이 보이게 합니다. 또렷한 실루엣 하나와 넓은 여백, 아주 적은 보조 요소만 있습니다. 색은 부드러운 모란디 파스텔 두세 가지에서 네 가지로, 안개 분홍, 부드러운 살구색, 회녹색, 세이지, 연한 테라코타, 크림 노랑, 안개 파랑, 회보라 등을 사진에서 가장 생기 있는 색으로부터 다시 섞어 연한 종이 위에 둡니다. 색면은 평평하고 가장자리가 깔끔하며, 가벼운 종이 섬유, 실크스크린 입자, 약간의 판 어긋남이 있고 그라데이션과 그림자는 없습니다. 글자는 짧은 제목과 작은 단어 몇 개로, 윤곽이나 음의 형태 경계를 따르거나 윤곽에 잘리게 둡니다.",
+    "traits": [
+      "숨은 심상",
+      "그림과 바탕의 반전",
+      "2~4색 모란디",
+      "실크스크린",
+      "두 번 보기"
+    ],
+    "good": [
+      "윤곽이 뚜렷하고 환경과 이어진 주인공: 고양이와 그가 바라보는 창밖, 사슴과 숲, 등대와 바다",
+      "옆모습이 분명한 사람이나 동물: 사람의 옆얼굴, 서 있는 새, 달리는 강아지",
+      "다시 보게 되는 재치 있는 포스터나 전시 비주얼로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "정면을 향해 윤곽이 분명하지 않은 주인공(그림과 바탕을 맞물리기 어렵습니다)",
+      "사람이 많고 초점이 나란한 사진",
+      "고채도, 강한 대비의 상업적 배색이나 세밀한 일러스트를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "صور خفية",
+    "tagline": "يحوّل الصورة إلى مطبوعة حريرية بألوان موراندي، ترى فيها العنصر أولاً ثم تكتشف في النظرة الثانية صورة مخبّأة.",
+    "look": "يُحتفظ بأوضح حدود العنصر، ثم يُقرن بأقرب ما يرتبط به في الصورة من مكان أو شيء أو رمز، فيلتحمان في شكل واحد عبر تعاشق الحدود والفراغ السلبي المقطوع والحواف المشتركة وانقلاب الشكل والأرضية: من بعيد ترى العنصر، ومن قريب تجد المشهد الآخر مخبّأً فيه. هناك ظل واحد واضح وفراغ واسع وعناصر مساعدة قليلة جداً. الألوان من اثنين إلى أربعة من باستيل موراندي الناعم، كالوردي الضبابي والمشمشي الناعم والرمادي المخضر والمريمي والطيني الفاتح والأصفر الكريمي والأزرق الضبابي والبنفسجي الرمادي، يُعاد مزجها من أكثر ألوان الصورة حيوية على ورق فاتح. الألوان مسطّحة بحواف نظيفة، مع ألياف ورق خفيفة وحبيبات طباعة حريرية وانزياح طباعي طفيف، بلا تدرجات ولا ظلال. النص عنوان قصير وكلمات صغيرة قليلة على امتداد الحدود أو حافة الفراغ، أو يقطعها الخط الخارجي.",
+    "traits": [
+      "صورة مخبّأة",
+      "انقلاب الشكل والأرضية",
+      "من لونين إلى أربعة من موراندي",
+      "طباعة حريرية",
+      "قراءة مزدوجة"
+    ],
+    "good": [
+      "عناصر واضحة الحدود ومرتبطة بمكانها: قطة وما تراه من النافذة، غزال وغابة، منارة وبحر",
+      "أشخاص أو حيوانات بجانب واضح: وجه من الجانب، طائر واقف، كلب يركض",
+      "صور تريدها ملصقاً ذكياً أو هوية معرض تكافئ النظرة الثانية"
+    ],
+    "poor": [
+      "عناصر أمامية بحدود غير واضحة، يصعب أن تتعاشق",
+      "صور مزدحمة فيها بؤر متساوية",
+      "طلب ألوان تجارية مشبعة عالية التباين أو رسم مفصّل"
+    ]
+  }
+}
